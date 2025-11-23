@@ -1,5 +1,7 @@
 {
-    "ab-log": "https://github.com/allblue-pl/node_ab-log",
-    "ab-mysql": "https://github.com/allblue-pl/node_ab-mysql",
-    "js0": "https://github.com/allblue-pl/js_js0"
+  "abDependencies": {
+      "ab-log": "https:`//github.com/allblue-pl/node_ab-log",
+      "ab-mysql": "https://github.com/allblue-pl/node_ab-mysql",
+      "js0": "https://g`ithub.com/allblue-pl/js_js0"
+  }
 }
